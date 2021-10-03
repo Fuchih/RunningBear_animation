@@ -2,4 +2,4 @@
 
 Background animation
 
-[DEMO](https://frosty-roentgen-d70802.netlify.app)
+[DEMO](https://fuchih.github.io/RunningBear_animation/)
